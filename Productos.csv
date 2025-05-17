@@ -1,0 +1,21 @@
+ProductoID,NombreProducto,Categoria,Precio
+1,Producto 1,Electrodomésticos,165.21
+2,Producto 2,Electrónica,344.96
+3,Producto 3,Electrodomésticos,443.38
+4,Producto 4,Electrónica,438.67
+5,Producto 5,Electrónica,626.3
+6,Producto 6,Electrónica,338.4
+7,Producto 7,Electrónica,342.69
+8,Producto 8,Electrodomésticos,121.87
+9,Producto 9,Electrónica,868.44
+10,Producto 10,Electrónica,827.11
+11,Producto 11,Electrodomésticos,677.44
+12,Producto 12,Electrónica,808.31
+13,Producto 13,Electrónica,197.87
+14,Producto 14,Electrónica,788.38
+15,Producto 15,Electrodomésticos,891.67
+16,Producto 16,Electrónica,622.78
+17,Producto 17,Electrónica,641.85
+18,Producto 18,Electrodomésticos,215.38
+19,Producto 19,Electrodomésticos,852.71
+20,Producto 20,Electrodomésticos,806.78
